@@ -20,8 +20,8 @@ To use the FaceNet model with Nvidia Triton Server, follow these steps:
 2. **Clone this Repository**:
 
    ```shell
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/KamoliddinS/facenet_triton_model.git
+   cd facenet_triton_model
    ```
 
 3. **Deploy the Model**:
